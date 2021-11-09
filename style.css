@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.hu {
+    color: blue;
+}
+
+.inputs {
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
